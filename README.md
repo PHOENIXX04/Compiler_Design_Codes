@@ -88,3 +88,5 @@ So basically your order of inputting commands should be like following:
 ---
 
 If you actually do end up using my codes for the practical, don't forget to follow my github since you will need it for rest of the practicals as well as for next sem :)
+
+---
